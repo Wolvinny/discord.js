@@ -670,9 +670,6 @@ importers:
 
   packages/builders:
     dependencies:
-      '@discordjs/formatters':
-        specifier: workspace:^
-        version: link:../formatters
       '@discordjs/util':
         specifier: workspace:^
         version: link:../util
