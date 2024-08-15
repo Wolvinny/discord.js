@@ -58,7 +58,7 @@
 	"devDependencies": {
 		"@discordjs/api-extractor": "workspace:^",
 		"@favware/cliff-jumper": "^3.0.3",
-		"@types/node": "18.18.8",
+		"@types/node": "^18.19.44",
 		"@types/prompts": "^2.4.9",
 		"@types/validate-npm-package-name": "^4.0.2",
 		"@vitest/coverage-v8": "^1.6.0",
